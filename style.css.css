@@ -1,0 +1,19 @@
+
+body {
+  font-family:'Lora', serif;
+  font-size: 18px;
+   color: black;
+  text-align: center; }
+
+.banner {
+background-image:url(images/background.jpg);
+background-size: cover;
+background-position: center;
+}
+
+h1, h2, h3 {
+  font-family: 'work sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 10px;
+
+
